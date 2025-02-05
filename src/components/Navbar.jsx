@@ -227,12 +227,12 @@ export function Navbar() {
             <Dropdown  onClick={handleChildClick} value={selectedMeetingOption} onChange={(e) => setSelectedMeetingOption(e.value)} options={meetingoption} optionLabel="name" 
               placeholder="Meeting Information" className="custom" />
 
-
+            
             <NavLink to="/policy" className={({ isActive }) => 
               isActive ? "bg-gray-900 text-white px-3 py-2 rounded-md text-sm font-medium" : 
               "text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
             }>
-              Rules and Regulations
+              <br></br>Rules and Regulations
             </NavLink>
             <NavLink to="/petition" className={({ isActive }) => 
               isActive ? "bg-gray-900 text-white px-3 py-2 rounded-md text-sm font-medium" : 
