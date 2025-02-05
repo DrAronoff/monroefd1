@@ -2,7 +2,7 @@ import React from "react";
 
 export function Financial() {
     return (
-        center>
+        <center>
         <div class="right2">
         <br/>
         <br/>
@@ -67,6 +67,7 @@ export function Financial() {
         src="https://diuy0t6boke2n.cloudfront.net/FirePreventionVideos/Home_Fire_Evacuation_3rd_Grade.mp4">
     </iframe>
     </div>
+    <center/>
     
     )
 }
