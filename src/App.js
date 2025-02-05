@@ -5,7 +5,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import { Home } from './components/Home'
 import { About } from './components/About'
 import { Comissioners } from './components/Comissioners'
-import { Financial } from './components/Financial'
+import { Videos } from './components/Videos'
 import { Meeting } from './components/Meeting'
 import { Policy } from './components/Policy'
 import { Petition } from './components/Petition'
@@ -32,7 +32,7 @@ export default function App() {
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/comissioners" element={<Comissioners />} />
-          <Route path="/financial" element={<Financial />} />
+          <Route path="/videos" element={<Videos />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/meeting" element={<Meeting />} />
           <Route path="/policy" element={<Policy />} />
