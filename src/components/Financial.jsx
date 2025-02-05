@@ -2,7 +2,10 @@ import React from "react";
 
 export function Financial() {
     return (
-        
+        center>
+        <div class="right2">
+            <br/>
+            <br/>
 
         <iframe
             width="600"
@@ -13,5 +16,6 @@ export function Financial() {
             referrerpolicy="no-referrer-when-downgrade"
             src="FirePreventionVideos/FireIsFast.mp4">
         </iframe>
+        </div>
     )
 }
