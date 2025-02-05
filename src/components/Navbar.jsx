@@ -221,7 +221,7 @@ export function Navbar() {
             </NavLink>
 
             <Dropdown  onClick={handleChildClick} value={selectedFinanceOption} onChange={(e) => setSelectedFinanceOption(e.value)} options={financeoption} optionLabel="name" 
-              placeholder="Financial Information" className="custom" />
+              placeholder="Financial Information" className="custom" /> <p> </p>
 
 
             <Dropdown  onClick={handleChildClick} value={selectedMeetingOption} onChange={(e) => setSelectedMeetingOption(e.value)} options={meetingoption} optionLabel="name" 
@@ -232,7 +232,7 @@ export function Navbar() {
               isActive ? "bg-gray-900 text-white px-3 py-2 rounded-md text-sm font-medium" : 
               "text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
             }>
-              <br></br>Rules and Regulations
+              <br />Rules and Regulations
             </NavLink>
             <NavLink to="/petition" className={({ isActive }) => 
               isActive ? "bg-gray-900 text-white px-3 py-2 rounded-md text-sm font-medium" : 
