@@ -238,7 +238,7 @@ export function Navbar() {
               isActive ? "bg-gray-900 text-white px-3 py-2 rounded-md text-sm font-medium" : 
               "text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
             }>
-                Office of Fire Commissioner Petition
+              Commissioner Petition
             </NavLink>
             <NavLink to="/records" className={({ isActive }) => 
               isActive ? "bg-gray-900 text-white px-3 py-2 rounded-md text-sm font-medium" : 
