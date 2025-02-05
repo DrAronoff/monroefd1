@@ -14,6 +14,7 @@ import { Contact } from './components/Contact'
 import { Navbar } from './components/Navbar'
 import { Links } from './components/Links'
 import { Footer } from './components/Footer'
+import { Elections } from './components/Elections'
 
 import { Current } from './components/Current'
 import { Report } from './components/Report'
@@ -48,6 +49,7 @@ export default function App() {
           <Route path="/agendaArchive" element={<AgendaArchive />} />
           <Route path="/minutesArchive" element={<MinutesArchive />} />
           <Route path="/reportsArchive" element={<ReportsArchive />} />
+          <Route path="/elections" element={<Elections />} />
 
         </Routes>
         <Footer />

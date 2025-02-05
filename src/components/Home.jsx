@@ -1,5 +1,6 @@
 
 import GridContainer from "./ui/GridContainer";
+import { Link } from 'react-router-dom';
 
 
 export function Home() {
@@ -33,8 +34,12 @@ export function Home() {
 	<font size="+1"><a href="https://www.monroefd1nj.com/2024_Fire_Election_Results.docx"><button>2024 Fire District Election Results</button></a></font><br/><br/>
 	<p><font size="+1"><a href="https://youtu.be/f6yCtToEScQ"><button> Special video message from our Fire Company.</button></a></font> 
 </p><br/>
-    <a href="https://www.monroefd1nj.com/elections.html"><button >previous Fire District Election results.</button></a><br/><br/>
 
+<Link to="/elections">
+     <button type="button">previous Fire District Election results.
+     </button>
+ </Link>
+    <br/><br/>
 <img src="https://s3.us-east-2.amazonaws.com/fireapparatusrepair.com/newfirehouse.jpg" width="640" height="456" alt=""/>
 </center>
 
