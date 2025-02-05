@@ -244,7 +244,7 @@ export function Navbar() {
               isActive ? "bg-gray-900 text-white px-3 py-2 rounded-md text-sm font-medium" : 
               "text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
             }>
-                Open Public Records Request
+                <br />Open Public Records Request
             </NavLink>
             <NavLink to="/contact" className={({ isActive }) => 
               isActive ? "bg-gray-900 text-white px-3 py-2 rounded-md text-sm font-medium" : 
