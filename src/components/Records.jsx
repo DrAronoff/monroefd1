@@ -9,7 +9,7 @@ export function Records() {
             <br/>
             <br/>
         <center>
-        <a href="https://www.monroefd1nj.com/OPRA_form.pdf"><button>Open Public Records Request (OPRA) Form</button></a>
+        <a href="https://www.nj.gov/dep/opra/opraform.html"><button>Open Public Records Request (OPRA) Form</button></a>
         <br/>
         </center>
         </>
