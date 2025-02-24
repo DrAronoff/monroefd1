@@ -13,6 +13,8 @@ export function Audit() {
 <h1 className="text-5xl md:text-5xl font-bold mb-6">Annual Audit</h1><hr/>
 <p>Click below to access the most recent audits:</p>
 <ul>
+<li><a href="https://diuy0t6boke2n.cloudfront.net/Audits/MonroeTownship+FireDistrict%2312023+AUDIT.pdf" target="new">2023 Audit Report</a> </li>
+
 	<li><a href="https://diuy0t6boke2n.cloudfront.net/Audits/MTFD1-2022_Annual_Audit.pdf" target="new">2022 Audit Report</a> | <a href="https://diuy0t6boke2n.cloudfront.net/Audits/MTFD1-2022_Audit_Synopsis.pdf">Synopsis of 2022 Audit Report</a></li>
 <li><a href="https://diuy0t6boke2n.cloudfront.net/Audits/MTFD1-2021_Annual_Audit.pdf">2021 Audit Report</a> | <a href="https://diuy0t6boke2n.cloudfront.net/Audits/MTFD1-2021_Audit_Synopsis.pdf">Synopsis of 2021 Audit Report</a></li>
 <li><a href="https://diuy0t6boke2n.cloudfront.net/Audits/MTFD1-_2020_Annual_Audit.pdf">2020 Audit Report</a> | <a href="https://diuy0t6boke2n.cloudfront.net/Audits/MTFD1-2020_Audit_Synopsis.pdf">Synopsis of 2020 Audit Report</a></li>

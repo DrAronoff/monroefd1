@@ -12,6 +12,11 @@ export function MinutesArchive() {
 	<table width="auto" border="3">
 <tbody><tr>
 <td colspan="2" align="center">
+<tr>
+<td valign="top">
+<a href="https://diuy0t6boke2n.cloudfront.net/Minutes/2024/FD%231minutesJanuary2025.docx" target="new">January 2025</a><br/>
+</td>
+</tr>
 <u><strong>2024 Meeting Minutes</strong></u>
 </td>
 </tr>
