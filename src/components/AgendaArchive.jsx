@@ -14,12 +14,11 @@ export function AgendaArchive() {
 <tbody><tr>
 <td colspan="2
 ">
-<u><center><strong>2023 Agendas</strong></center></u>
+<u><center><strong>2025 Agendas</strong></center></u>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<strong>2025 Agendas</strong>
 <a href="https://diuy0t6boke2n.cloudfront.net/Agendas/2025/agendaJan2025.docx" target="new">January 2025</a><br/>
 
 <a href="https://diuy0t6boke2n.cloudfront.net/Agendas/2025/FD%231ReorgAgenda.docx" target="new">March 2025</a><br/>
