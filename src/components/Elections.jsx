@@ -14,6 +14,7 @@ export function Elections() {
 <h1>Previous Fire Election Results</h1>
 <hr />
 <ul>
+<li><a href="https://diuy0t6boke2n.cloudfront.net/2024_Fire_Election_Results%20(2).docx" target="new">2024 Fire Election Results</a></li>
 	<li><a href="https://diuy0t6boke2n.cloudfront.net/2023_Fire_Election_Results.pdf" target="new">2023 Fire Election Results</a></li>
 	<li><a href="https://diuy0t6boke2n.cloudfront.net/2022_Election Results.docx" target="new">2022 Fire Election Results</a></li>
 	<li><a href="https://diuy0t6boke2n.cloudfront.net/2021_Election_Results.docx" target="new">2021 Fire Election Results</a></li>
