@@ -33,9 +33,10 @@ export function ReportsArchive() {
 <br/>
 </td>
 <td valign="top">
-<p><a href="https://diuy0t6boke2n.cloudfront.net/Reports/2023/2023-01-11_fire_prevention_report.docx" target="new">January 11, 2023</a><br/>
+<p>
+<a href="https://diuy0t6boke2n.cloudfront.net/Reports/2023/2023-01-11_fire_prevention_report.pdf" target="new">January 11, 2023</a><br/>
 <a href="https://diuy0t6boke2n.cloudfront.net/Reports/2023/2023-02-08_fire_prevention_report.pdf" target="new">February 8, 2023</a><br/>
-<a href="https://diuy0t6boke2n.cloudfront.net/Reports/2023/2023-03-08_fire_prevention_report.docx" target="new">March 8, 2023</a><br/>
+<a href="https://diuy0t6boke2n.cloudfront.net/Reports/2023/2023-03-08_fire_prevention_report.pdf" target="new">March 8, 2023</a><br/>
 <a href="https://diuy0t6boke2n.cloudfront.net/Reports/2023/2023-04-12_fire_prevention_report.pdf" target="new">April 12, 2023</a><br/>
 <a href="https://diuy0t6boke2n.cloudfront.net/Reports/2023/2023-05-10_fire_prevention_report.pdf" target="new">May 10, 2023</a><br/>
 <a href="https://diuy0t6boke2n.cloudfront.net/Reports/2023/2022-06-14_fire_prevention_report.pdf" target="new">June 14, 2023</a><br/>
