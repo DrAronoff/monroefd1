@@ -31,7 +31,7 @@ export function Home() {
    
 
     */}
-	<font size="+1"><a href="monroefd1nj.com/FD%231+Election+Results+2025.docx"><button>2025 Fire District Election Results</button></a></font><br/><br/>
+	<font size="+1"><a href="https://diuy0t6boke2n.cloudfront.net/FD%231+Election+Results+2025.docx"><button>2025 Fire District Election Results</button></a></font><br/><br/>
 	<p><font size="+1"><a href="https://youtu.be/f6yCtToEScQ"><button> Special video message from our Fire Company.</button></a></font> 
 </p><br/>
 
