@@ -4,47 +4,35 @@ import { Link } from 'react-router-dom';
 
 
 export function Home() {
-    const featuresBasic = ["1 Static Websites", "SSL Certificate", "Custom Domain", "Unmetered Traffic"];
-    const featuresMedium = ["2 Static Websites", "SSL Certificate", "Custom Domain", "Unmetered Traffic"];
-    const featuresPro = ["4 Static Websites", "SSL Certificate", "Custom Domain", "Unmetered Traffic"];
 
     return (
         <>
+        
             {/* Hero Section */}
-            <section className="bg-gray-100 py-20">
-                <div className="container mx-auto px-4">
-                    <div className="max-w-3xl mx-auto text-center">
-                        <br/>
-                        <h1 className="text-5xl md:text-5xl font-bold mb-6">Monroe Township Fire District #1</h1>
-                    </div>
-                    
-                    <center>
-
-<hr/>
-	<p><strong><font size="+1">Meetings are held on the second Wednesday of every month at 6:30 PM.</font></strong></p>
-	<br/>
-     {/*
-	<p><strong><font size="+2">We are hiring a Firefighter/Fire Inspector.<br/> Applications must be completed and submitted prior to November 5th, 2024 to be eligible for the written test.<br/>
-		<a href="https://forms.gle/efyM69xcTHZYQJh39"><button>Submit your application</button></a></font></strong></p><br/>
-<p> Click the thumbnail below to download the application flyer.</p>
-	<a href="https://s3.us-east-2.amazonaws.com/fireapparatusrepair.com/FH_application_flyer.png" target="new"><img width="200"src="https://s3.us-east-2.amazonaws.com/fireapparatusrepair.com/FH_application_flyer.png"/></a><br/>
-   
-
-    */}
-	<font size="+1"><a href="https://diuy0t6boke2n.cloudfront.net/FD%231+Election+Results+2025.docx"><button>2025 Fire District Election Results</button></a></font><br/><br/>
-	<p><font size="+1"><a href="https://youtu.be/f6yCtToEScQ"><button> Special video message from our Fire Company.</button></a></font> 
-</p><br/>
-
-<Link to="/elections">
-     <button type="button">previous Fire District Election results.
-     </button>
- </Link>
-    <br/><br/>
-<img src="https://s3.us-east-2.amazonaws.com/fireapparatusrepair.com/newfirehouse.jpg" width="640" height="456" alt=""/>
-</center>
-
+            <main _ngcontent-tpk-c17=""><div _ngcontent-tpk-c17="" class="titlediv"><div _ngcontent-tpk-c17="" class="container"><div _ngcontent-tpk-c17="" class="content">
+                <h1 _ngcontent-tpk-c17="" class="title">Fire Apparatus Repair, Inc.</h1>
+                <h3 _ngcontent-tpk-c17="">2740 Kuser Road<br _ngcontent-tpk-c17=""></br>
+                Hamilton, NJ 08691<br _ngcontent-tpk-c17=""></br><br _ngcontent-tpk-c17=""></br>
+                Phone: 609-689-2888<br _ngcontent-tpk-c17=""></br></h3>
+                <a _ngcontent-tpk-c17="" href="mailto:ron@fireapparatus.com?subject=Mail from Our WebSite" class="email">Ron@fireapparatusrepair.net</a></div></div></div>
+            <div _ngcontent-tpk-c17="" class="row">
+                <div _ngcontent-tpk-c17="" class="column">
+                    <img _ngcontent-tpk-c17="" src="https://fireapparatusrepair.com/assets/images/waterousborder.png" class="img-responsive"></img>
                 </div>
-            </section>
+                <div _ngcontent-tpk-c17="" class="column">
+                    <img _ngcontent-tpk-c17="" src="https://fireapparatusrepair.com/assets/images/spartanborder.png" class="img-responsive">
+                    </img>
+                </div>
+                <div _ngcontent-tpk-c17="" class="column">
+                    <img _ngcontent-tpk-c17="" src="https://fireapparatusrepair.com/assets/images/evtborder.jpg" class="img-responsive">
+                    </img>
+                    </div>
+                <div _ngcontent-tpk-c17="" class="column">
+                    <img _ngcontent-tpk-c17="" src="https://fireapparatusrepair.com/assets/images/haleborder.png" class="img-responsive"></img>
+                    </div>
+                    </div>
+            </main>
+            
         </>
     )
 }

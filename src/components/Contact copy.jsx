@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-export function Contact() {
+export function CommandVehicles() {
     
     return (
         <div class="right2">
