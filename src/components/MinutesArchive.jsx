@@ -17,6 +17,8 @@ export function MinutesArchive() {
 <u><center><strong>2025 Meeting Minutes</strong></center></u>
 
 <a href="https://diuy0t6boke2n.cloudfront.net/Minutes/2024/FD%231minutesJanuary2025.docx" target="new">January 2025</a><br/>
+<a href="https://diuy0t6boke2n.cloudfront.net/Minutes/2025/FD%231+minutes+February+2025.docx" target="new">February 2025</a><br/>
+
 </td>
 </tr>
 <u><strong>2024 Meeting Minutes</strong></u>
