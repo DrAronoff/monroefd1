@@ -1,4 +1,3 @@
-import { useState } from 'react'
 
 export function Contact() {
     
@@ -33,7 +32,7 @@ Commissioner DiLieto: <a href="mailto:comm.dilieto@monroefd1nj.com">comm.dilieto
 <p>To e-mail all Commissioners at once, use this address: <a href="mailto:commissioners@mtvfc1.com">commissioners@mtvfc1.com</a></p>
 <p><u>Staff</u>:<br/>
 Secretary Mercado: <a href="mailto:sec.mercado@monroefd1nj.com">sec.mercado@monroefd1nj.com</a><br/>
-Matt Jandernal,Fire Official: <a href="mailto:MonroeBOFC@aol.com">MonroeBOFC@aol.com</a><br/>
+Matt Jandernal,Fire Official: <a href="mailto:Matt.Jandernal@monroefd1nj.com">matt.jandernal@monroefd1nj.com</a><br/>
 </p>
 <p>Attorney: Joseph D. Youssouf: <a href="mailto:jyoussouf@aol.com">jyoussouf@aol.com</a><br/>
   Insurance (Oliver L. E. Soden Agency): <a href="http://www.sodeninsurance.com">http://www.sodeninsurance.com</a><br/>
