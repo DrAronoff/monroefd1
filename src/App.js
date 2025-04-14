@@ -23,6 +23,7 @@ import { Resolution } from './components/Resolution'
 import { AgendaArchive } from './components/AgendaArchive'
 import { MinutesArchive } from './components/MinutesArchive'
 import { ReportsArchive } from './components/ReportsArchive'
+import { PosterWinner } from './components/PosterWinner'
 
 export default function App() {
   return (
@@ -45,6 +46,8 @@ export default function App() {
           <Route path="/resolution" element={<Resolution />} />
           <Route path="/audit" element={<Audit />} />
           <Route path="/report" element={<Report />} />
+          <Route path="/posterContestWinner" element={<PosterWinner />} />
+
 
           <Route path="/agendaArchive" element={<AgendaArchive />} />
           <Route path="/minutesArchive" element={<MinutesArchive />} />

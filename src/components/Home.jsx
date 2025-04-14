@@ -31,7 +31,14 @@ export function Home() {
    
 
     */}
-	<font size="+1"><a href="https://diuy0t6boke2n.cloudfront.net/FD%231+Election+Results+2025.docx"><button>2025 Fire District Election Results</button></a></font><br/><br/>
+    <Link to="/posterContestWinner">
+     <button type="button">Winners of the 2024-2025 Fire Prevention Poster Contest
+     </button>
+ </Link>
+ <br></br>
+ <br></br>
+
+ <font size="+1"><a href="https://diuy0t6boke2n.cloudfront.net/FD%231+Election+Results+2025.docx"><button>2025 Fire District Election Results</button></a></font><br/><br/>
 	<p><font size="+1"><a href="https://youtu.be/f6yCtToEScQ"><button> Special Video Message From Our Fire Company</button></a></font> 
 </p><br/>
 

@@ -146,13 +146,13 @@ left: -50px;
 
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
     .custom2{
         margin-left: 100px;
     }
     
   }
-  @media screen and (min-width: 600px) {
+  @media screen and (min-width: 750px) {
     .block{
         display: none;
     }
