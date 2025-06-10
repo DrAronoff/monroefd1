@@ -19,6 +19,7 @@ export function MinutesArchive() {
 <a href="https://diuy0t6boke2n.cloudfront.net/Minutes/2024/FD%231minutesJanuary2025.docx" target="new">January 2025</a><br/>
 <a href="https://diuy0t6boke2n.cloudfront.net/Minutes/2025/FD%231+minutes+February+2025.docx" target="new">February 2025</a><br/>
 <a href="https://diuy0t6boke2n.cloudfront.net/FD%231+minutes+March+2025.docx" target="new">March 2025</a><br/>
+<a href="https://diuy0t6boke2n.cloudfront.net/Minutes/2024/FD%231+minutes+April+2025.docx" target="new">April 2025</a><br/>
 
 </td>
 </tr>
@@ -37,6 +38,11 @@ export function MinutesArchive() {
 	</td>
 	<td valign="top">
 		<a href="https://diuy0t6boke2n.cloudfront.net/Minutes/2024/minJuly2024.pdf" target="new">July 10, 2024</a>
+		<a href="https://diuy0t6boke2n.cloudfront.net/Minutes/2024/minAug2024.docx" target="new">August 9, 2024</a><br/>
+		<a href="https://diuy0t6boke2n.cloudfront.net/Minutes/2024/minSept2024.docx" target="new">September 13, 2024</a><br/>
+		<a href="https://diuy0t6boke2n.cloudfront.net/Minutes/2024/minOct2024.docx" target="new">October 18, 2024</a><br/>
+		<a href="https://diuy0t6boke2n.cloudfront.net/Minutes/2024/minNovember2024.docx" target="new">November 8, 2024</a><br/>
+		<a href="https://diuy0t6boke2n.cloudfront.net/Minutes/2024/FD%231+minutes+December+2024.docx" target="new">December 13, 2024</a>
 	</td>
 	</tr>
 	  </tbody>
