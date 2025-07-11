@@ -25,7 +25,7 @@ export function AgendaArchive() {
 <a href="https://diuy0t6boke2n.cloudfront.net/Agendas/2025/FD%231+Agenda.docx" target="new">April 2025</a><br/>
 <a href="https://diuy0t6boke2n.cloudfront.net/FD%231+Agenda+(1).docx" target="new">May 2025</a><br/>
 <a href="https://diuy0t6boke2n.cloudfront.net/Agendas/2025/FD%231+Agenda+June.docx" target="new">June 2025</a><br/>
-<a href="https://diuy0t6boke2n.cloudfront.net/Agendas/2025/FD%231+Agenda+(3).docx" target="new">July 2025</a><br/>
+<a href="https://diuy0t6boke2n.cloudfront.net/Agendas/FD%231+Agenda+(3).docx" target="new">July 2025</a><br/>
 
 
 	   	</td>
