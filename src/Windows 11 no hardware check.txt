@@ -1,0 +1,27 @@
+No need to update 10 to latest version first.
+Bypasses all hardware checks. So it will upgrade to win 11 older PC that do not meet their requirements. The CPU requirement is terrible as normally it wont allow an installation on older CPU like 7th gen INTEL CPUs.
+This PC I updated to 11 version 23H2, is core2duo and it is running great on 11 PRO.
+
+Simple to do
+Download win11 disc image file at Microsoft. File is about 6.4gb, you want the ISO file, scroll down the web page it is the last method in their list.
+
+Mount the ISO file by rightclicking select mount.
+Click open
+Look in file manager to see what drive letter it is mounted at, mine was F:
+
+open CMD prompt as admin
+goto F: (wherever it was mounted) , as in type F: enter
+type DIR to see the files and folders of the mounted iso, that way you know you are in the right drive folder
+Type CD sources
+
+Then type setupprep.exe /product server
+Select type of install, I chose keep files, folder, programs,
+
+Windows 11 will install
+If your PC was activated, it remains activated
+
+It will say installing server, but it is installing windows 11, and it will install either home, pro, or whatever matching version you have
+Leave command prompt window open
+
+No need to use a USB drive or boot from it.
+Then walk away, no interaction is needed.
