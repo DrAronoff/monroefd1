@@ -14,7 +14,9 @@ export function MinutesArchive() {
 <td colspan="2" align="center">
 <tr>
 <td valign="top">
+	<tr>
 <u><center><strong>2025 Meeting Minutes</strong></center></u>
+</tr>
 </td></tr>
 <tr>
 	<td>
