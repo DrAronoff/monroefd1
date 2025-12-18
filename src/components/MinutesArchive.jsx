@@ -32,6 +32,7 @@ export function MinutesArchive() {
 <a href="https://diuy0t6boke2n.cloudfront.net/Minutes/2025/FD%231+minutes+August+2025.docx" target="new">August 2025</a><br/>
 <a href="https://diuy0t6boke2n.cloudfront.net/Minutes/2025/FD%231+minutes+September+2025.docx" target="new">September 2025</a><br/>
 <a href="https://diuy0t6boke2n.cloudfront.net/Minutes/2025/FD%231+minutes+October+2025.docx" target="new">October 2025</a><br/>
+<a href="https://diuy0t6boke2n.cloudfront.net/Minutes/2025/FD%231+minutes+November+2025.docx" target="new">November 2025</a><br/>
 
 
 
