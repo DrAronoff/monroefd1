@@ -13,10 +13,13 @@ export function Current() {
             <u><strong>Current Budget:</strong></u><br/>
 
                 <ul>
-                <li><a href="https://diuy0t6boke2n.cloudfront.net/Budgets/MTFD1-2024_Adopted_Budget.pdf">2024 Adopted Budget</a></li>
+                <li><a href="https://diuy0t6boke2n.cloudfront.net/Budgets/Consolidated+25+Budget+for+Posting.pdf">2025 Adopted Budget</a></li>
+                <li><a href="https://diuy0t6boke2n.cloudfront.net/Audits/Monroe+FD%231+2024+LOSAP.pdf">LOSAP Report</a></li>
+
             </ul>
             <u><strong>Past Budgets and Other Information:</strong></u><br/>
             <ul>
+                <li><a href="https://diuy0t6boke2n.cloudfront.net/Budgets/MTFD1-2024_Adopted_Budget.pdf">2024 Adopted Budget</a></li>
                 <li><a href="https://diuy0t6boke2n.cloudfront.net/Budgets/MTFD1-2023_Adopted_Budget.pdf">2023 Adopted Budget</a></li>
                 <li><a href="https://diuy0t6boke2n.cloudfront.net/Budgets/2022_List_of_Remunerations_over_17500.pdf">2022 Remunerations over $17,500</a></li>
                 <li><a href="https://diuy0t6boke2n.cloudfront.net/Budgets/MTFD1-2022_Proposed_Budget.pdf">2022 Proposed Budget</a></li>
