@@ -31,6 +31,8 @@ export function Home() {
    
 
     */}
+ <font size="+1"><a href="https://diuy0t6boke2n.cloudfront.net/Notice+of+Election+-+Monroe+FD1+-+Revised+by+Client.pdf"><button>Notice of Election</button></a></font><br/><br/>
+  <font size="+1"><a href="https://diuy0t6boke2n.cloudfront.net/Notice+of+Election+%26+Petitions+-+Monroe+FD1.pdf"><button>Notice of Election & Petitions</button></a></font><br/><br/>
     <Link to="/posterContestWinner">
      <button type="button">Winners of the 2024-2025 Fire Prevention Poster Contest
      </button>
