@@ -46,7 +46,7 @@ export function Home() {
 </p><br/>
 
 <Link to="/elections">
-     <button type="button">Previous Fire District Election results
+     <button type="button">Previous Fire District Election Results
      </button>
  </Link>
     <br/><br/>
