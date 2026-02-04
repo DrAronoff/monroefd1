@@ -10,6 +10,21 @@ export function AgendaArchive() {
             <br/>
             <br/>
 			<p>&nbsp;</p>
+<table width="auto" border="3">
+<tbody><tr>
+<td colspan="2
+">
+<u><center><strong>2026 Agendas</strong></center></u>
+</td>
+</tr>
+<tr>
+<td valign="top"></td>
+				<a href="https://diuy0t6boke2n.cloudfront.net/FD%231+Agenda+(2).docx" target="new">February 2026</a><br/>	
+<a href="https://diuy0t6boke2n.cloudfront.net/Agendas/2025/agendaJan2025.docx" target="new">January 2026</a><br/>
+</tr>
+</tbody>
+</table>
+
 	<table width="auto" border="3">
 <tbody><tr>
 <td colspan="2
@@ -19,9 +34,7 @@ export function AgendaArchive() {
 </tr>
 <tr>
 <td valign="top">
-<a href="https://diuy0t6boke2n.cloudfront.net/FD%231+Agenda+(2).docx" target="new">February 2025</a><br/>
 
-<a href="https://diuy0t6boke2n.cloudfront.net/Agendas/2025/agendaJan2025.docx" target="new">January 2025</a><br/>
 
 <a href="https://diuy0t6boke2n.cloudfront.net/Agendas/2025/FD%231ReorgAgenda.docx" target="new">March 2025</a><br/>
 <a href="https://diuy0t6boke2n.cloudfront.net/Agendas/2025/FD%231+Agenda+april.docx" target="new">April 2025</a><br/>
