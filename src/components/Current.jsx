@@ -10,6 +10,8 @@ export function Current() {
             <br/>
             <br/>
             <h1 className="text-5xl md:text-5xl font-bold mb-6">Monroe Township Fire District #1 Annual Budgets</h1><hr/>
+            <font size="+1"><a href="https://diuy0t6boke2n.cloudfront.net/Budgets/Notice+of+Adopted+Budget+-+Monroe+FD1+2026.02.10.docx"><button>Notice of Adopted Budget 2026</button></a></font><br/><br/>
+
             <u><strong>Current Budget:</strong></u><br/>
 
                 <ul>
