@@ -32,9 +32,12 @@ export function Home() {
 
     */}
          <font size="+1"><a href="https://us06web.zoom.us/j/6087173324?pwd=UgmyEZvj2caooSBAQyxkXuSyObbty5.1&omn=86957298954"><button>Commissioners Meeting Zoom Link</button></a></font><br/><br/>
-     <font size="+1"><a href="https://diuy0t6boke2n.cloudfront.net/Notice+of+Special+Meeting+Re+Budget+Hearing.docx"><button>Notice of Special Meeting Re Budget Hearing</button></a></font><br/><br/>
+     {/*<font size="+1"><a href="https://diuy0t6boke2n.cloudfront.net/Notice+of+Special+Meeting+Re+Budget+Hearing.docx"><button>Notice of Special Meeting Re Budget Hearing</button></a></font><br/><br/>
+
     <font size="+1"><a href="https://diuy0t6boke2n.cloudfront.net/Notice+of+Election+-+Monroe+FD1+-+Revised+by+Client.pdf"><button>Notice of Election</button></a></font><br/><br/>
+ 
     <font size="+1"><a href="https://diuy0t6boke2n.cloudfront.net/Notice+of+Election+%26+Petitions+-+Monroe+FD1.pdf"><button>Notice of Election & Petitions</button></a></font><br/><br/>
+       */}
     <Link to="/posterContestWinner">
      <button type="button">Winners of the 2026 Fire Prevention Poster Contest
      </button>
