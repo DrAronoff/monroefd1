@@ -21,7 +21,7 @@ export function Home() {
                     <center>
 
 <hr/>
-	<p><strong><font size="+1">Meetings are held on the second Wednesday of every month at 6:00 PM.</font></strong></p>
+	<p><strong><font size="+1">Meetings are held on the second Wednesday of every month at 7:00 PM.</font></strong></p>
 	<br/>
      {/*
 	<p><strong><font size="+2">We are hiring a Firefighter/Fire Inspector.<br/> Applications must be completed and submitted prior to November 5th, 2024 to be eligible for the written test.<br/>
