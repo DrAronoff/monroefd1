@@ -21,7 +21,7 @@ export function Home() {
                     <center>
 
 <hr/>
-	<p><strong><font size="+1">Meetings are held on the second Wednesday of every month at 7:00 PM.</font></strong></p>
+	<p><strong><font size="+1">Meetings are held on the second Wednesday of every month at 6:30 PM.</font></strong></p>
 	<br/>
      {/*
 	<p><strong><font size="+2">We are hiring a Firefighter/Fire Inspector.<br/> Applications must be completed and submitted prior to November 5th, 2024 to be eligible for the written test.<br/>
@@ -31,6 +31,12 @@ export function Home() {
    
 
     */}
+         <font size="+1"><a href="https://diuy0t6boke2n.cloudfront.net/20260717133332102.pdf"><button>Special Meeting Notice</button></a></font><br/><br/>
+         <font size="+1"><a href="https://diuy0t6boke2n.cloudfront.net/20260717133710045.pdf"><button>Re-scheduled Regular Meeting</button></a></font><br/><br/>
+         <font size="+1"><a href="https://diuy0t6boke2n.cloudfront.net/20260717134014010.pdf"><button>Change of Regular Meeting Start Time</button></a></font><br/><br/>
+
+
+
          <font size="+1"><a href="https://us06web.zoom.us/j/6087173324?pwd=UgmyEZvj2caooSBAQyxkXuSyObbty5.1&omn=86957298954"><button>Commissioners Meeting Zoom Link</button></a></font><br/><br/>
      {/*<font size="+1"><a href="https://diuy0t6boke2n.cloudfront.net/Notice+of+Special+Meeting+Re+Budget+Hearing.docx"><button>Notice of Special Meeting Re Budget Hearing</button></a></font><br/><br/>
 
