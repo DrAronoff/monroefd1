@@ -31,7 +31,7 @@ export function Home() {
    
 
     */}
-         <font size="+1"><a href="https://diuy0t6boke2n.cloudfront.net/20260717133332102.pdf"><button>Special Meeting Notice</button></a></font><br/><br/>
+         <font size="+1"><a href="https://diuy0t6boke2n.cloudfront.net/2026.07.29+Notice+of+2026.07.30+Special+Meeting+Cancellation.docx"><button>Special Meeting Cancellation</button></a></font><br/><br/>
          <font size="+1"><a href="https://diuy0t6boke2n.cloudfront.net/20260717133710045.pdf"><button>Re-scheduled Regular Meeting</button></a></font><br/><br/>
          <font size="+1"><a href="https://diuy0t6boke2n.cloudfront.net/20260717134014010.pdf"><button>Change of Regular Meeting Start Time</button></a></font><br/><br/>
 
